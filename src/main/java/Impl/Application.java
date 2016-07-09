@@ -26,7 +26,7 @@ public class Application implements CommandLineRunner {
     }
 
     public static void main(String args[]) {
-        SpringApplication.run(Application.class, "USDEUR");
+        SpringApplication.run(Application.class);
 
     }
 
