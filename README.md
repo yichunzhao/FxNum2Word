@@ -1,2 +1,2 @@
-# FxNum2Word
+# Fx and Num2Word
 
